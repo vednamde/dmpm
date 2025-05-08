@@ -114,7 +114,7 @@ A: To prioritize the most meaningful and non-random rules.
 
 ## 📌 Author
 
-Made with ❤️ by [VED]  
+Made with ❤️ by VED  
 For academic purposes under the course **Data Mining & Predictive Modeling**
 
 ---
